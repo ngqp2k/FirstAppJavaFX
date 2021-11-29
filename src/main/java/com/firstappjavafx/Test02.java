@@ -30,6 +30,7 @@ public class Test02 extends Application {
         );
 
         /* Nguyen Quang Phu - 2000 */
+        /* Pham Thi Quy Hau - 1997 */
 
         Pane layout = new Pane();
         layout.getChildren().add(button);
