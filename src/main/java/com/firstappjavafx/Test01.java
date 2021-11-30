@@ -31,6 +31,7 @@ public class Test01 extends Application {
                     public void handle(ActionEvent actionEvent) {
                         System.out.println("ngqp2k second");
                     }
+
                 }
         );
 
